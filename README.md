@@ -7,7 +7,9 @@
 Calepins d'auto-apprentissage en [**Python**](https://www.python.org/). Nous organisons cet atelier une fois par trimestre, avec des mises à jour régulières.
 Ces formations peuvent également avoir lieu, à la demande.
 
+
 [👉 Pour plus de détails sur la formation ](https://github.com/ai-technipreneurs/programmation-python-pratique)
+
 
 
 [Prochaine session, 👉 05-07/Juillet 2021](Notes/Contenu.html).
