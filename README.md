@@ -1,6 +1,6 @@
 #  Bienvenu sur le site de l'atelier 3P
 
-## Progrmmation Python Pratique
+## Programmation Python Pratique
 
 Calepins d'auto-apprentissage en [**Python**](https://www.python.org/). Nous organisons cet atelier une fois par trimestre, avec des mises à jour régulières.
 Ces formations peuvent également avoir lieu, à la demande.
