@@ -10,8 +10,9 @@ Ces formations peuvent également avoir lieu, à la demande.
 
 
 
-La formation Python de 3 jours donne une vision assez générale du langage informatique Python et de la création de programmes dynamiques qui en découle. 
+Cette formation Python de trois (03) jours donne une vision assez générale du langage informatique Python et de la création de programmes dynamiques qui en découle. 
 Cette formation fournit toutes les connaissances nécessaires pour créer de premiers programmes intéressants avec ce langage, sans se sentir frustré ou trop limité.
+
 
 👨‍💻 Public cible : tout public
 
