@@ -26,11 +26,9 @@ Cette formation fournit toutes les connaissances nécessaires pour créer de pre
 
 ### [👉 Pour plus de détails sur la formation ](https://github.com/ai-technipreneurs/programmation-python-pratique)
 
-
-****
+***********
 
 ### Démarrage rapide, je voudrais un avant-goût
-
 
 #### Je veux juste jouer avec ces carnets en ligne sans avoir à installer quoi que ce soit ?
 Utilisez l'un des services suivants.
@@ -45,7 +43,6 @@ Utilisez l'un des services suivants.
 
 
 
-****
 ### Je veux juste regarder rapidement quelques carnets, sans exécuter de code ?
 
 Parcourir ce dépot en utilisant [le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/blob/master/0_Sur_Colab.ipynb)
