@@ -10,7 +10,7 @@ Ces formations peuvent également avoir lieu, à la demande.
 [👉 Prochaine session, 05-07/Juillet 2021](Notes/Contenu.html). 
 
 
-###  Prochaine session, 05-07/Juillet 2021, [s'inscrire pour cette session](https://forms.gle/JMxwywtfCNScnYvg7)
+### Je voudrais participer à la prochaine session, 05-07/Juillet 2021, [je m'inscris ici](https://forms.gle/JMxwywtfCNScnYvg7).
 
 ### [👉 Pour plus de détails sur la formation ](https://github.com/ai-technipreneurs/programmation-python-pratique)
 
