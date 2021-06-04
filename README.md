@@ -31,6 +31,7 @@ Cette formation fournit toutes les connaissances nécessaires pour créer de pre
 ### Démarrage rapide, je voudrais un avant-goût
 
 #### Je veux juste jouer avec ces carnets en ligne sans avoir à installer quoi que ce soit ?
+
 Utilisez l'un des services suivants.
 
 **ATTENTION** : Sachez que ces services fournissent des environnements temporaires : tout ce que vous faites sera supprimé au bout d'un moment, alors assurez-vous de télécharger toutes les données auxquelles vous tenez.
@@ -39,7 +40,9 @@ Utilisez l'un des services suivants.
  <a href="https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
 
 * ou l'ouvrir dans [Binder](https://mybinder.org/v2/gh/ai-technipreneurs/programmation-python-pratique/master):
-<a href="https://mybinder.org/v2/gh/ai-technipreneurs/programmation-python-pratique/master"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a>
+<a href="https://mybinder.org/v2/gh/ai-technipreneurs/programmation-python-pratique/master"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a> . 
+
+Vous obtiendrez le meme resultat en cliquant 👉 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ai-technipreneurs/programmation-python-pratique/master)
 
 
 
