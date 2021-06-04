@@ -2,7 +2,9 @@
 
 ## Programmation Python Pratique
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ai-technipreneurs/site-officiel-atelier-3-P/blob/main/Bienvenue_dans_Colaboratory.ipynb)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ai-technipreneurs/site-officiel-atelier-3-P/blob/main/Bienvenue_dans_Colaboratory.ipynb)
 
 Calepins d'auto-apprentissage en [**Python**](https://www.python.org/). Nous organisons cet atelier une fois par trimestre, avec des mises à jour régulières.
 Ces formations peuvent également avoir lieu, à la demande. 
@@ -37,6 +39,7 @@ Utilisez l'un des services suivants.
 **ATTENTION** : Sachez que ces services fournissent des environnements temporaires : tout ce que vous faites sera supprimé au bout d'un moment, alors assurez-vous de télécharger toutes les données auxquelles vous tenez.
 
 * **Recommandé** : ouvrir ce dépôt en [Colaboratory](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/):
+
  <a href="https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
 
 * ou l'ouvrir dans [Binder](https://mybinder.org/v2/gh/ai-technipreneurs/programmation-python-pratique/master):
