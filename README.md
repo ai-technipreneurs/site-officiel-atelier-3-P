@@ -7,10 +7,9 @@
 Calepins d'auto-apprentissage en [**Python**](https://www.python.org/). Nous organisons cet atelier une fois par trimestre, avec des mises à jour régulières.
 Ces formations peuvent également avoir lieu, à la demande. 
 
-[👉 Prochaine session, 05-07/Juillet 2021](Notes/Contenu.html). 
 
+### 👉 Prochaine session, 05-07/Juillet 2021, [je voudrais y participer](https://forms.gle/JMxwywtfCNScnYvg7).
 
-### Je voudrais participer à la prochaine session, 05-07/Juillet 2021, [je m'inscris ici](https://forms.gle/JMxwywtfCNScnYvg7).
 
 
 Cette formation Python de trois (03) jours donne une vision assez générale du langage informatique Python et de la création de programmes dynamiques qui en découle. 
