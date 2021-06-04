@@ -12,7 +12,8 @@ Ces formations peuvent également avoir lieu, à la demande. [👉 Prochaine ses
 
 ### [👉 Pour plus de détails sur la formation ](https://github.com/ai-technipreneurs/programmation-python-pratique)
 
-
+[Colaboratory](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/):
+<a href="https://colab.research.google.com/github/ageron/tf2_course/blob/master/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
 
 
 
