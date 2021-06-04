@@ -12,9 +12,6 @@ Ces formations peuvent également avoir lieu, à la demande.
 
 ### Je voudrais participer à la prochaine session, 05-07/Juillet 2021, [je m'inscris ici](https://forms.gle/JMxwywtfCNScnYvg7).
 
-### [👉 Pour plus de détails sur la formation ](https://github.com/ai-technipreneurs/programmation-python-pratique)
-
-
 
 Cette formation Python de trois (03) jours donne une vision assez générale du langage informatique Python et de la création de programmes dynamiques qui en découle. 
 Cette formation fournit toutes les connaissances nécessaires pour créer de premiers programmes intéressants avec ce langage, sans se sentir frustré ou trop limité.
@@ -28,6 +25,7 @@ Cette formation fournit toutes les connaissances nécessaires pour créer de pre
 
 👍 Créez des programmes et logiciels en Python
 
+### [👉 Pour plus de détails sur la formation ](https://github.com/ai-technipreneurs/programmation-python-pratique)
 
 
 ****
