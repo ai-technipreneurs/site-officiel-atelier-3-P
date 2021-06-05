@@ -3,7 +3,7 @@
 ## Programmation Python Pratique
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ai-technipreneurs/site-officiel-atelier-3-P/blob/main/Bienvenue_dans_Colaboratory.ipynb).
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ai-technipreneurs/site-officiel-atelier-3-P/blob/main/Bienvenue_dans_Colaboratory.ipynb)
 
 Calepins d'auto-apprentissage en [**Python**](https://www.python.org/). Nous organisons cet atelier une fois par trimestre, avec des mises à jour régulières.
 Ces formations peuvent également avoir lieu, à la demande. 
@@ -34,7 +34,7 @@ Cette formation fournit toutes les connaissances nécessaires pour créer de pre
 👨‍💻 Prérequis techniques:
 Nous utiliserons [Google Meet](https://meet.google.com/) comme plateforme. Comme il s'agit d'un atelier pratique, il est utile d'avoir deux écrans afin de pouvoir afficher l'écran de l'instructeur d'un côté et votre propre écran de l'autre. Nous utiliserons aussi l'interface [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=fr). Assurez-vous d'avoir un navigateur Web moderne tel que Google Chrome, Firefox, Edge ou Safari.
 
-💬 *Pour ces formations, des discussions LIVE! peuvent se faire sur notre communauté [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Vous pourrez toujours joindre la discussion et y poser vos questions à tout moment, même quand les formations sont pas en cours.*
+💬 *Pour ces formations, des discussions LIVE! peuvent se faire sur notre communauté [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Vous pourrez toujours joindre la discussion et y poser vos questions à tout moment, même quand les formations ne sont pas en cours.*
 
 
 ### [👉 Pour plus de détails sur la formation ](https://github.com/ai-technipreneurs/programmation-python-pratique)
