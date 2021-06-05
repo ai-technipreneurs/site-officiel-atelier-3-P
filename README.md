@@ -17,18 +17,17 @@ Cette formation Python de trois (03) jours donne une vision assez générale du 
 Cette formation fournit toutes les connaissances nécessaires pour créer de premiers programmes intéressants avec ce langage, sans se sentir frustré ou trop limité.
 
 
-👨‍💻 Public cible : tout public
+💺 Public cible : tout public
 
-🕰 Durée : 3 jours (21 heures)
+⏳ Durée : 3 jours (21 heures)
 
 🌍 Lieu de formation : En ligne
 
 👍 Créez des programmes et logiciels en Python
 
-Langue du cours
-Français
+🈸 Langue de la formation: Français
 
-Prérequis techniques
+👨‍💻 Prérequis techniques:
 Nous utiliserons [Google Meet](https://meet.google.com/) comme plateforme. Comme il s'agit d'un atelier pratique, il est utile d'avoir deux écrans afin de pouvoir afficher l'écran de l'instructeur d'un côté et votre propre écran de l'autre.
 
 Nous utiliserons aussi l'interface [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=fr). Assurez-vous d'avoir un navigateur Web moderne tel que Google Chrome, Firefox, Edge ou Safari.
