@@ -10,6 +10,10 @@ Ces formations peuvent également avoir lieu, à la demande.
 
 
 ### 👉 Prochaine session, 05-07/Juillet 2021, [je voudrais y participer](https://forms.gle/JMxwywtfCNScnYvg7).
+Date et heure: Lun., 5 juillet 2021, 09:00 – Mer., 7 juillet 2021, 18:00 [HNEC](https://fr.wikipedia.org/wiki/Heure_normale_d%27Europe_centrale).
+
+[Pour ajouter à votre calendrier google](https://calendar.google.com/event?action=TEMPLATE&tmeid=M3Q5MWUwOXFnY2M3NzM1cDBqMnZkMGI5NW5fMjAyMTA3MDUgYWkudGVjaG5pcHJlbmV1cnNAbQ&tmsrc=ai.technipreneurs%40gmail.com&scp=ALL), cliquez 👉 
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M3Q5MWUwOXFnY2M3NzM1cDBqMnZkMGI5NW5fMjAyMTA3MDUgYWkudGVjaG5pcHJlbmV1cnNAbQ&amp;tmsrc=ai.technipreneurs%40gmail.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
 
 
 
