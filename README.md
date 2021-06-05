@@ -28,11 +28,9 @@ Cette formation fournit toutes les connaissances nécessaires pour créer de pre
 🈸 Langue de la formation: Français
 
 👨‍💻 Prérequis techniques:
-Nous utiliserons [Google Meet](https://meet.google.com/) comme plateforme. Comme il s'agit d'un atelier pratique, il est utile d'avoir deux écrans afin de pouvoir afficher l'écran de l'instructeur d'un côté et votre propre écran de l'autre.
+Nous utiliserons [Google Meet](https://meet.google.com/) comme plateforme. Comme il s'agit d'un atelier pratique, il est utile d'avoir deux écrans afin de pouvoir afficher l'écran de l'instructeur d'un côté et votre propre écran de l'autre. Nous utiliserons aussi l'interface [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=fr). Assurez-vous d'avoir un navigateur Web moderne tel que Google Chrome, Firefox, Edge ou Safari.
 
-Nous utiliserons aussi l'interface [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=fr). Assurez-vous d'avoir un navigateur Web moderne tel que Google Chrome, Firefox, Edge ou Safari.
-
-*Pour ces formations, des discussions LIVE! peuvent se faire sur notre communauté [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Vous pourrez toujours joindre la discussion et y poser vos questions à tout moment, même quand les formations sont pas en cours.*
+💬 *Pour ces formations, des discussions LIVE! peuvent se faire sur notre communauté [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Vous pourrez toujours joindre la discussion et y poser vos questions à tout moment, même quand les formations sont pas en cours.*
 
 
 ### [👉 Pour plus de détails sur la formation ](https://github.com/ai-technipreneurs/programmation-python-pratique)
