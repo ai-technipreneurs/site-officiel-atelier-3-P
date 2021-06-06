@@ -1,4 +1,4 @@
-#  Bienvenu sur le site de l'atelier 3P
+#  Bienvenu(e) sur le site de l'atelier 3P
 
 ## Programmation Python Pratique
 
@@ -18,7 +18,7 @@ Cette formation fournit toutes les connaissances nécessaires pour créer de pre
 
 ⏳ Durée : 3 jours (21 heures)
 
-🌍 Lieu de formation : En ligne
+🌍 Lieu de formation : en ligne
 
 👍 Créez des programmes et logiciels en Python
 
