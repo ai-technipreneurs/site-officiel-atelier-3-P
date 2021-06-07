@@ -41,7 +41,7 @@ Pour ajouter cet événement à votre [calendrier google](https://calendar.googl
 
 ***********
 
-### Démarrage rapide, je voudrais un avant-goût
+### Démarrage rapide, je voudrais un avant-goût: deux options
 
 #### Je veux juste jouer avec ces carnets en ligne sans avoir à installer quoi que ce soit ?
 
