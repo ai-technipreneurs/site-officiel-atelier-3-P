@@ -61,5 +61,5 @@ Pour cela, utilisez l'un des services suivants.
 
 #### Je veux juste regarder rapidement quelques carnets, sans exécuter de code ?
 
-Parcourir ce dépot en utilisant [le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/tree/master/calepins-nbviewer/)
-<a href="https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique/tree/master/calepins-nbviewer/"><img src="https://jupyter.org/assets/nav_logo.svg" width="150" /></a>
+Parcourir ce dépot en utilisant [le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/tree/main/)
+<a href="https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/tree/main/"><img src="https://jupyter.org/assets/nav_logo.svg" width="150" /></a>
