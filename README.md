@@ -30,7 +30,7 @@ Nous utiliserons [Google Meet](https://meet.google.com/) comme plateforme. Comme
 💬 *Pour ces formations, des discussions LIVE! peuvent se faire sur notre communauté [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Vous pourrez toujours joindre la discussion et y poser vos questions à tout moment, même quand les formations ne sont pas en cours.*
 
 
-### [👉 Pour plus de détails sur la formation ](https://github.com/ai-technipreneurs/programmation-python-pratique)
+### [👉 Pour plus de détails sur la formation ](https://github.com/ai-technipreneurs/programmation-python-pratique).
 
 ### 👉 Prochaine session, 05-07/Juillet 2021, [je voudrais y participer](https://forms.gle/JMxwywtfCNScnYvg7).
 Date et Heure: Lun., 5 juillet 2021, 09:00 – Mer., 7 juillet 2021, 18:00 [HNEC](https://fr.wikipedia.org/wiki/Heure_normale_d%27Europe_centrale).
