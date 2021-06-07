@@ -45,7 +45,7 @@ Pour ajouter cet événement à votre [calendrier google](https://calendar.googl
 
 #### Je veux juste jouer avec ces carnets en ligne sans avoir à installer quoi que ce soit ?
 
-Utilisez l'un des services suivants.
+Pour cela, utilisez l'un des services suivants.
 
 **ATTENTION** : Sachez que ces services fournissent des environnements temporaires : tout ce que vous faites sera supprimé au bout d'un moment, alors assurez-vous de télécharger toutes les données auxquelles vous tenez.
 
