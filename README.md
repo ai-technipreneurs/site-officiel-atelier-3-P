@@ -30,7 +30,7 @@ Nous utiliserons [Google Meet](https://meet.google.com/) comme plateforme. Comme
 💬 *Pour ces formations, des discussions LIVE! peuvent se faire sur notre communauté [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Vous pourrez toujours joindre la discussion et y poser vos questions à tout moment, même quand les formations ne sont pas en cours.*
 
 
-### [👉 Pour plus de détails sur la formation ](https://ai-technipreneurs.github.io/programmation-python-pratique/).
+### [👉 Pour plus de détails sur la formation](https://ai-technipreneurs.github.io/programmation-python-pratique/).
 
 
 ### 👉 Prochaine session, 05-07/Juillet 2021, [je voudrais y participer](https://forms.gle/JMxwywtfCNScnYvg7).
@@ -42,9 +42,10 @@ Pour ajouter cet événement à votre [calendrier google](https://calendar.googl
 
 ***********
 
-### Démarrage rapide, je voudrais un avant-goût: deux options
+### Démarrage rapide, je voudrais un avant-goût
+Pour cela, vous avez deux options:
 
-#### Je veux juste jouer avec ces carnets en ligne sans avoir à installer quoi que ce soit ?
+#### Option 1: je veux juste jouer avec ces carnets en ligne sans avoir à installer quoi que ce soit ?
 
 Pour cela, utilisez l'un des services suivants.
 
@@ -60,7 +61,7 @@ Pour cela, utilisez l'un des services suivants.
 
 
 
-#### Je veux juste regarder rapidement quelques carnets, sans exécuter de code ?
+####  Option 2: je veux juste regarder rapidement quelques carnets, sans exécuter de code ?
 
 Parcourir ce dépot en utilisant [le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/tree/main/)
 <a href="https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/tree/main/
