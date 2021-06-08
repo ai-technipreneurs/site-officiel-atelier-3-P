@@ -45,7 +45,7 @@ Pour ajouter cet événement à votre [calendrier google](https://calendar.googl
 ### Démarrage rapide, je voudrais un avant-goût
 Pour cela, vous avez deux options:
 
-#### Option 1: je veux juste jouer avec ces carnets en ligne sans avoir à installer quoi que ce soit ?
+#### Option 1: je veux juste jouer avec ces carnets en ligne sans avoir à installer quoi que ce soit
 
 Pour cela, utilisez l'un des services suivants.
 
@@ -61,7 +61,7 @@ Pour cela, utilisez l'un des services suivants.
 
 
 
-####  Option 2: je veux juste regarder rapidement quelques carnets, sans exécuter de code ?
+####  Option 2: je veux juste regarder rapidement quelques carnets, sans exécuter de code
 
 Parcourir ce dépot en utilisant [le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/tree/main/)
 <a href="https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/tree/main/
