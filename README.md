@@ -29,6 +29,14 @@ Nous utiliserons [Google Meet](https://meet.google.com/) comme plateforme. Comme
 
 💬 *Pour ces formations, des discussions LIVE! peuvent se faire sur notre communauté [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Vous pourrez toujours joindre la discussion et y poser vos questions à tout moment, même quand les formations ne sont pas en cours.*
 
+## À l'issue de cette série de formations vous serez capable de :
+* Identifier les usages courants du langage
+* Mettre en pratique le scripting en Python
+* Structurer votre code en fonction, classes et modules
+* Utiliser des modules existants
+* Décrire la programmation réseau avec Python
+* Expérimenter la programmation objet en Python.
+
 
 ### [👉 Pour plus de détails sur la formation](https://ai-technipreneurs.github.io/programmation-python-pratique/).
 
