@@ -71,5 +71,5 @@ Parcourir ce dépot en utilisant [le visualiseur de bloc-notes de jupyter.org](h
 
 
 
-### [Vous pouvez aussi télécharger tous les cahiers de cours](https://github.com/ai-technipreneurs/programmation-python-pratique).
+### 👉 [Vous pouvez aussi télécharger tous les cahiers de cours](https://github.com/ai-technipreneurs/programmation-python-pratique).
 
