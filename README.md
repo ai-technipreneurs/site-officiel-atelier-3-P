@@ -41,7 +41,7 @@ Nous utiliserons [Google Meet](https://meet.google.com/) comme plateforme. Comme
 ### [👉 Pour plus de détails sur la formation](https://ai-technipreneurs.github.io/programmation-python-pratique/).
 
 
-### 👉 Prochaine session, 12-14/Juillet 2021, [je voudrais y participer](https://forms.gle/NTiVb24J8g1CQy889).
+### 👉 Prochaine session, 12-14/Juillet 2021, [je voudrais y participer](https://forms.gle/9oQqFBRGicT3bi8E7). 
 Date et Heure: Lun., 12 juillet 2021, 09:00 – Mer., 14 juillet 2021, 18:00 [HNEC](https://fr.wikipedia.org/wiki/Heure_normale_d%27Europe_centrale).
 Vous pouvez utiliser [le convertisseur de fuseau horaire](https://www.thetimezoneconverter.com/) pour avoir les horaires dans votre heure locale.
 
