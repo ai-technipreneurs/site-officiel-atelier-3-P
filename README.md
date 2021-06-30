@@ -1,5 +1,10 @@
 #  Bienvenu(e) sur le site de l'atelier 3P
 
+<p align="center">
+  <img src="./images/logo-atelier3P.png" width="200" title="hover text">
+</p>
+
+
 ## Programmation Python Pratique
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
