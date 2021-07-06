@@ -7,9 +7,9 @@
 ## Cet atelier est organisé en collaboration et avec le soutien de 
 
 <p align="center">
-<a href="https://quantumleapafrica.org/" ><img src="./images/QLAlogo-main-small.png" style="float:left; max-width: 900px; display: inline" alt="QLA"/></a> &emsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://imsp-benin.com/" ><img src="./images/logoimsp.png" style="float:center; max-width: 900px; display: inline" alt="IMSP"/></a> &emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://acas-yde.org/" ><img src="./images/logo-acas.png" style="float:center; max-width: 800px; display: inline" alt="ACAS"/></a>
+<a href="https://quantumleapafrica.org/" ><img src="./images/QLAlogo-main-small.png" style="float:left; max-width: 1000px; display: inline" alt="QLA"/></a> &emsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://imsp-benin.com/" ><img src="./images/logoimsp.png" style="float:center; max-width: 600px; display: inline" alt="IMSP"/></a> &emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://acas-yde.org/" ><img src="./images/logo-acas.png" style="float:center; max-width: 600px; display: inline" alt="ACAS"/></a>
 </p>
 
 
