@@ -4,6 +4,21 @@
   <img src="./images/logo-atelier3P.png" width="200" title="hover text">
 </p>
 
+Cet atelier est organisé en collaboration et avec le soutien de 
+
+
+<center>
+<a href="https://quantumleapafrica.org/" ><img src="./images/QLAlogo-main-small.png" style="float:left; max-width: 900px; display: inline" alt="QLA"/></a> 
+</center>
+
+<center>
+<a href="http://imsp-benin.com/" ><img src="./images/logoimsp.png" style="float:center; max-width: 900px; display: inline" alt="IMSP"/></a> 
+</center> 
+
+<center>
+<a href="https://acas-yde.org/" ><img src="./images/logo-acas.png" style="float:center; max-width: 800px; display: inline" alt="ACAS"/></a>
+</center>
+
 
 ## Programmation Python Pratique
 
