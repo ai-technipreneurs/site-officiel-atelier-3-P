@@ -66,8 +66,10 @@ Nous utiliserons [Google Meet](https://meet.google.com/) comme plateforme. Comme
 Date et Heure: Lun., 12 juillet 2021, 09:00 – Mer., 14 juillet 2021, 18:00 [HNEC](https://fr.wikipedia.org/wiki/Heure_normale_d%27Europe_centrale).
 Vous pouvez utiliser [le convertisseur de fuseau horaire](https://www.thetimezoneconverter.com/) pour avoir les horaires dans votre heure locale.
 
-Pour ajouter cet événement à votre [calendrier google](https://calendar.google.com/event?action=TEMPLATE&tmeid=M3Q5MWUwOXFnY2M3NzM1cDBqMnZkMGI5NW5fMjAyMTA3MDUgYWkudGVjaG5pcHJlbmV1cnNAbQ&tmsrc=ai.technipreneurs%40gmail.com&scp=ALL), cliquez 👉 
+Pour ajouter cet événement à votre [calendrier google](https://calendar.google.com/event?action=TEMPLATE&tmeid=M3Q5MWUwOXFnY2M3NzM1cDBqMnZkMGI5NW5fMjAyMTA3MTIgYWkudGVjaG5pcHJlbmV1cnNAbQ&tmsrc=ai.technipreneurs%40gmail.com&scp=ALL), cliquez 👉 
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M3Q5MWUwOXFnY2M3NzM1cDBqMnZkMGI5NW5fMjAyMTA3MTIgYWkudGVjaG5pcHJlbmV1cnNAbQ&amp;tmsrc=ai.technipreneurs%40gmail.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
+
+
 
 
 
