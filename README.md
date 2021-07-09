@@ -102,4 +102,7 @@ Parcourir ce dépot en utilisant [le visualiseur de bloc-notes de jupyter.org](h
 
 ### 👉 [Vous pouvez aussi télécharger tous les cahiers de cours](https://github.com/ai-technipreneurs/programmation-python-pratique).
 
-### [Code de conduite](./code-de-conduite.html).
+### Code de conduite
+
+Déclaration officielle des valeurs et des pratiques pour nos ateliers AI.
+[Code de conduite (CdeC)](https://ai-technipreneurs.github.io/code-conduite-ateliers-ai/).
